@@ -1,0 +1,37 @@
+<layouttype>thumbnail</layouttype>
+
+<channels> 
+<channel> 
+<name>[B]XXX TV 1[/B]</name> 
+<thumbnail>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/XXX_Addon_M3U/master/XXX_TV_1.m3u</externallink> 
+<fanart>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]XXX TV 2[/B]</name> 
+<thumbnail>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/XXX_Addon_M3U/master/XXX_TV_2.m3u</externallink> 
+<fanart>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]XXX TV 3[/B]</name> 
+<thumbnail>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/XXX_Addon_M3U/master/XXX_TV_3.m3u</externallink> 
+<fanart>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]XXX TV 4[/B]</name> 
+<thumbnail>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</thumbnail> 
+<externallink>https://raw.githubusercontent.com/anton432/XXX_Addon_M3U/master/XXX_TV_4.m3u</externallink> 
+<fanart>https://ia802808.us.archive.org/21/items/xxxlogo/XXX-Logo.jpg</fanart> 
+<info></info> 
+</channel>
